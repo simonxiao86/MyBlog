@@ -1,2 +1,2 @@
-# Summary master
+# Summary
 * [前言](README.md)
